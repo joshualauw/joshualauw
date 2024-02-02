@@ -1,10 +1,5 @@
 ### Hello there 👋
 
-A developer with a keen interest in IT pursuing web development career. My passion lies in programming, science, internet technology, and software engineering.
-I build web apps using javascript & typescript, nodejs, python, and laravel
-
-You can visit my portfolio at [https://joshualauw.vercel.app/](https://joshualauw.vercel.app/)
-
 <!--
 **joshualauw/joshualauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
