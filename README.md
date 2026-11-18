@@ -1,14 +1,16 @@
 <div align="center">
+  
+# 👋 Hello, I'm Joshua William
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20JOSHUA%20WILLIAM&fontSize=50&fontColor=ffffff&animation=fadeIn)
+*Passionate about building applications that support business*
 
-**Fullstack developer fascinated by how real-world businesses run.**
-
-Currently studying CRM, ATS, and the web apps that power company workflows. I'm building toward my own tools to support small and medium businesses in Indonesia.
+Whether it's a CRM, ATS, HRIS, or SCM. I like developing apps that could drive real world company workflows.
 
 </div>
 
 ---
+
+## 🛠️ My Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,7 +20,7 @@ Currently studying CRM, ATS, and the web apps that power company workflows. I'm 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 These are some cool projects that I build:
+## 🚀 Here are some cool projects that I build:
 
 - [Kayu Ping](https://github.com/joshualauw/kayu-ping-next) - Inventory management dashboard for wood broker business
 - [Tecma](https://github.com/joshualauw/tecma) - Tenant communication tool using nextjs and whatsapp API
