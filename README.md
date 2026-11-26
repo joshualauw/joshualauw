@@ -1,22 +1,9 @@
-<table>
-<tr>
-<td width="30%" valign="top">
-
-<img src="https://github.com/user-attachments/assets/17e972fe-7d3b-435e-8586-6b1451b6245f" width="100%" alt="Joshua William" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualauw&layout=donut-vertical&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-<td width="70%" valign="top">
-
 # 👋 Hello, I'm Joshua William
 
 - I'm passionate about building web applications that solve business problems.
 - I have experience building many kinds of applications, including **CRM**, **ATS**, **Omnichannel**, **Sales tracker**, and **Inventory management**.
 - I also like to build hobby projects in the meantime to solve everyday problems.
 - Currently interested about researching AI workflows, MCP, and agents to help everyday business.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +30,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-william-l)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshualauw1@gmail.com)
-
-</td>
-</tr>
-</table>
