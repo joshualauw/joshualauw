@@ -1,26 +1,22 @@
-<div align="center">
-  
+<table>
+<tr>
+<td width="30%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/17e972fe-7d3b-435e-8586-6b1451b6245f" width="100%" alt="Joshua William" />
+
+</td>
+<td width="70%" valign="top">
+
 # 👋 Hello, I'm Joshua William
 
-*Passionate about building applications that support business*
-
-Whether it's a CRM, ATS, HRIS, or SCM. I like developing apps that could drive real world company workflows.
-
-</div>
+- I'm passionate about building web applications that solve business problems.
+- I have experience building many kinds of applications, including **CRM**, **ATS**, **Omnichannel**, **Sales tracker**, and **Inventory management**.
+- I also like to build hobby projects in the meantime to solve everyday problems.
+- My main tech stack is **Node.js**, **React**, or **Vue**. I'm also able to do **ASP.NET Core**.
 
 ---
 
-## 🛠️ My Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🚀 Here are some cool projects that I build:
+## 🚀 Here are some side projects that I build:
 
 - [Cebete](https://github.com/joshualauw/cebete) - Personal CBT tracker based on a book
 - [Kayu Ping](https://github.com/joshualauw/kayu-ping-next) - Inventory management dashboard for wood broker business
@@ -28,15 +24,15 @@ Whether it's a CRM, ATS, HRIS, or SCM. I like developing apps that could drive r
 - [Alta](https://github.com/joshualauw/alta) - A RAG dashboard to store your knowledge base
 - [Job Saver](https://github.com/joshualauw/job-saver) - Chrome extension to save job from anywhere and store it in google sheet
 
-## 📊 GitHub Stats
-
-<div align="center">
+## 📊 Some stats to fill the page
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshualauw&theme=tokyonight&hide_border=true" />
 
-</div>
-
-## 📫 Let's Connect
+## 🤖 Want to connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-william-l)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshualauw1@gmail.com)
+
+</td>
+</tr>
+</table>
