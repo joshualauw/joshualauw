@@ -4,6 +4,8 @@
 
 <img src="https://github.com/user-attachments/assets/17e972fe-7d3b-435e-8586-6b1451b6245f" width="100%" alt="Joshua William" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualauw&layout=donut-vertical&theme=tokyonight&hide_border=true" width="100%" />
+
 </td>
 <td width="70%" valign="top">
 
@@ -12,9 +14,18 @@
 - I'm passionate about building web applications that solve business problems.
 - I have experience building many kinds of applications, including **CRM**, **ATS**, **Omnichannel**, **Sales tracker**, and **Inventory management**.
 - I also like to build hobby projects in the meantime to solve everyday problems.
-- My main tech stack is **Node.js**, **React**, or **Vue**. I'm also able to do **ASP.NET Core**.
+- Currently interested about researching AI workflows, MCP, and agents to help everyday business.
 
 ---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## 🚀 Here are some side projects that I build:
 
@@ -24,7 +35,7 @@
 - [Alta](https://github.com/joshualauw/alta) - A RAG dashboard to store your knowledge base
 - [Job Saver](https://github.com/joshualauw/job-saver) - Chrome extension to save job from anywhere and store it in google sheet
 
-## 📊 Some stats to fill the page
+## 📊 Some stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshualauw&theme=tokyonight&hide_border=true" />
 
