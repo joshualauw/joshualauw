@@ -22,6 +22,7 @@ Whether it's a CRM, ATS, HRIS, or SCM. I like developing apps that could drive r
 
 ## 🚀 Here are some cool projects that I build:
 
+- [Cebete](https://github.com/joshualauw/cebete) - Personal CBT tracker based on a book
 - [Kayu Ping](https://github.com/joshualauw/kayu-ping-next) - Inventory management dashboard for wood broker business
 - [Tecma](https://github.com/joshualauw/tecma) - Tenant communication tool using nextjs and whatsapp API
 - [Alta](https://github.com/joshualauw/alta) - A RAG dashboard to store your knowledge base
